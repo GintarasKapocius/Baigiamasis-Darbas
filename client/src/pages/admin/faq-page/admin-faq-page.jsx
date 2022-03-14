@@ -90,7 +90,7 @@ const AdminFaqPage = () => {
         <Paper sx={{ width: '100%' }} elevation={2}>
           {faq.map(({ id, title, details }, i) => (
             <FaqItem
-              key={id}
+              key={i}
               id={id}
               title={title}
               details={details}
