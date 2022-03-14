@@ -52,7 +52,7 @@ export const deleteFaq = (req, res) => {
   const { id } = req.params;
 
   const faqs = database.data.faq;
-  const faqIndex = faqs.find(f => f.id === id);
+  const faqIndex = faqs.findIndex(f => f.id === id);
 
   if (faqIndex === -1) {
     res.status(404).send("Nerasta");
