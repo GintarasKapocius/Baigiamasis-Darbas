@@ -1,0 +1,531 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "Admin123",
+      "role": "ADMIN",
+      "fullName": "Dexter Schaefer",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_men_5_qw7rfs.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "Wilma Quintana",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_11_luxpbe.jpg"
+    },
+    {
+      "id": "3",
+      "fullName": "Wallace Thomas",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_14_ogceop.jpg"
+    },
+    {
+      "id": "4",
+      "fullName": "Avleen Lynch",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_wm_2_utdsb0.jpg"
+    },
+    {
+      "id": "5",
+      "fullName": "Johnny Brook",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_7_zplu40.jpg"
+    },
+    {
+      "id": "6",
+      "fullName": "Mark Sadler",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_10_sun7nk.jpg"
+    },
+    {
+      "id": "7",
+      "fullName": "Vivien Hartman",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_9_ph0fkj.jpg"
+    },
+    {
+      "id": "8",
+      "fullName": "Marius Barnard",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_15_gde2a9.jpg"
+    },
+    {
+      "id": "9",
+      "fullName": "Kristofer Beaumont",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_9_ycttlg.jpg"
+    },
+    {
+      "id": "10",
+      "fullName": "Krystian Miranda",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_1_gcgnb9.jpg"
+    },
+    {
+      "id": "11",
+      "fullName": "Macauley Haas",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_1_mhkdzx.jpg"
+    },
+    {
+      "id": "12",
+      "fullName": "Carley Hendricks",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_3_pvba5d.jpg"
+    },
+    {
+      "id": "13",
+      "fullName": "Jolene Rivera",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_4_yrbmgq.jpg"
+    },
+    {
+      "id": "14",
+      "fullName": "Alexa Gay",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_5_f7pwpr.jpg"
+    },
+    {
+      "id": "15",
+      "fullName": "Catherine Petersen",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_15_syqr8r.jpg"
+    },
+    {
+      "id": "16",
+      "fullName": "Scarlett Chan",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_6_f2twdz.jpg"
+    },
+    {
+      "id": "17",
+      "fullName": "Jules Edge",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_10_um6mqk.jpg"
+    },
+    {
+      "id": "18",
+      "fullName": "Hubert Gray",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_men_3_aiuze1.jpg"
+    },
+    {
+      "id": "19",
+      "fullName": "Clarice Stein",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_8_wgxk4s.jpg"
+    },
+    {
+      "id": "20",
+      "fullName": "Denis Drew",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_men_6_y0d9iv.jpg"
+    },
+    {
+      "id": "21",
+      "fullName": "Justine Sanderson",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_13_pzcell.jpg"
+    },
+    {
+      "id": "22",
+      "fullName": "Lola Barnard",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_14_nj5nhl.jpg"
+    },
+    {
+      "id": "23",
+      "fullName": "Arron Rogers",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_8_it6fsv.jpg"
+    },
+    {
+      "id": "24",
+      "fullName": "Blair Vickers",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_wm_12_rn6fw0.jpg"
+    },
+    {
+      "id": "25",
+      "fullName": "Toni Galloway",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_men_17_u3cdtm.jpg"
+    },
+    {
+      "id": "26",
+      "fullName": "Wallace Thomas",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248839/employees/empl_men_2_fqt7co.jpg"
+    },
+    {
+      "id": "27",
+      "fullName": "Colby Robbins",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_13_totmwc.jpg"
+    },
+    {
+      "id": "28",
+      "fullName": "Arnold Hayden",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_men_16_kfp6zc.jpg"
+    },
+    {
+      "id": "29",
+      "fullName": "Ty Clements",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248838/employees/empl_wm_16_jkm0qe.jpg"
+    },
+    {
+      "id": "30",
+      "fullName": "Eddison Le",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_men_12_rnlrhv.jpg"
+    },
+    {
+      "id": "31",
+      "fullName": "Beatrix Partridge",
+      "positiontitle": "Team Lead",
+      "imgSrc": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1640248840/employees/empl_wm_7_wrjxmv.jpg"
+    }
+  ],
+  "teamMembers": [
+    {
+      "id": "1",
+      "teamId": "1",
+      "employeeId": "4"
+    },
+    {
+      "id": "2",
+      "teamId": "1",
+      "employeeId": "5"
+    },
+    {
+      "id": "3",
+      "teamId": "1",
+      "employeeId": "6"
+    },
+    {
+      "id": "4",
+      "teamId": "1",
+      "employeeId": "7"
+    },
+    {
+      "id": "5",
+      "teamId": "2",
+      "employeeId": "9"
+    },
+    {
+      "id": "6",
+      "teamId": "2",
+      "employeeId": "10"
+    },
+    {
+      "id": "7",
+      "teamId": "3",
+      "employeeId": "12"
+    },
+    {
+      "id": "8",
+      "teamId": "3",
+      "employeeId": "13"
+    },
+    {
+      "id": "9",
+      "teamId": "3",
+      "employeeId": "14"
+    },
+    {
+      "id": "10",
+      "teamId": "3",
+      "employeeId": "15"
+    },
+    {
+      "id": "11",
+      "teamId": "4",
+      "employeeId": "16"
+    },
+    {
+      "id": "12",
+      "teamId": "4",
+      "employeeId": "17"
+    },
+    {
+      "id": "13",
+      "teamId": "4",
+      "employeeId": "18"
+    },
+    {
+      "id": "14",
+      "teamId": "5",
+      "employeeId": "21"
+    },
+    {
+      "id": "15",
+      "teamId": "5",
+      "employeeId": "22"
+    },
+    {
+      "id": "16",
+      "teamId": "5",
+      "employeeId": "23"
+    },
+    {
+      "id": "17",
+      "teamId": "5",
+      "employeeId": "24"
+    },
+    {
+      "id": "18",
+      "teamId": "6",
+      "employeeId": "26"
+    },
+    {
+      "id": "19",
+      "teamId": "6",
+      "employeeId": "27"
+    },
+    {
+      "id": "20",
+      "teamId": "6",
+      "employeeId": "28"
+    },
+    {
+      "id": "21",
+      "teamId": "6",
+      "employeeId": "29"
+    },
+    {
+      "id": "22",
+      "teamId": "7",
+      "employeeId": "30"
+    },
+    {
+      "id": "23",
+      "teamId": "7",
+      "employeeId": "31"
+    }
+  ],
+  "teams": [
+    {
+      "id": "1",
+      "title": "Team 1",
+      "departmentId": "2"
+    },
+    {
+      "id": "2",
+      "title": "Team 2",
+      "departmentId": "3"
+    },
+    {
+      "id": "3",
+      "title": "Team 3",
+      "departmentId": "4"
+    },
+    {
+      "id": "4",
+      "title": "Team 4",
+      "departmentId": "4"
+    },
+    {
+      "id": "5",
+      "title": "Team 5",
+      "departmentId": "5"
+    },
+    {
+      "id": "6",
+      "title": "Team 6",
+      "departmentId": "6"
+    },
+    {
+      "id": "7",
+      "title": "Team 7",
+      "departmentId": "7"
+    }
+  ],
+  "departmentMembers": [
+    {
+      "departmentId": "1",
+      "employeeId": "1"
+    },
+    {
+      "departmentId": "1",
+      "employeeId": "2"
+    },
+    {
+      "departmentId": "2",
+      "employeeId": "3"
+    },
+    {
+      "departmentId": "3",
+      "employeeId": "8"
+    },
+    {
+      "departmentId": "4",
+      "employeeId": "11"
+    },
+    {
+      "departmentId": "5",
+      "employeeId": "19"
+    },
+    {
+      "departmentId": "6",
+      "employeeId": "25"
+    },
+    {
+      "departmentId": "7",
+      "employeeId": "25"
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "title": "Founders"
+    },
+    {
+      "id": "2",
+      "title": "Software"
+    },
+    {
+      "id": "3",
+      "title": "Hardware"
+    },
+    {
+      "id": "4",
+      "title": "Production quality assurance"
+    },
+    {
+      "id": "5",
+      "title": "Production"
+    },
+    {
+      "id": "6",
+      "title": "Sales"
+    },
+    {
+      "id": "7",
+      "title": "Operations"
+    }
+  ],
+  "links": [
+    {
+      "id": "1",
+      "link": "https://www.google.com/",
+      "heading": "Link 1",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "2",
+      "link": "https://www.google.com/",
+      "heading": "Link 2",
+      "details": "At lectus urna duis convallis convallis tellus id interdum. Condimentum mattis pellentesque id nibh tortor. Duis convallis convallis tellus id interdum velit."
+    },
+    {
+      "id": "3",
+      "link": "https://www.google.com/",
+      "heading": "Link 3",
+      "details": "Tortor at risus viverra adipiscing at in. Pretium vulputate sapien nec sagittis aliquam malesuada. Bibendum neque egestas congue quisque egestas diam in."
+    },
+    {
+      "id": "4",
+      "link": "https://www.google.com/",
+      "heading": "Link 4",
+      "details": "Dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Lacus vel facilisis volutpat est velit egestas. Arcu dictum varius duis at consectetur lorem. Lectus nulla at volutpat diam ut venenatis."
+    },
+    {
+      "id": "5",
+      "link": "https://www.google.com/",
+      "heading": "Link 5",
+      "details": "Fusce id velit ut tortor. Dignissim sodales ut eu sem integer vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Sed vulputate mi sit amet mauris commodo quis imperdiet."
+    },
+    {
+      "id": "6",
+      "link": "https://www.google.com/",
+      "heading": "Link 6",
+      "details": "Sapien nec sagittis aliquam malesuada. At quis risus sed vulputate odio ut. Aenean vel elit scelerisque mauris pellentesque pulvinar."
+    }
+  ],
+  "blogArticles": [
+    {
+      "id": "1",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "July",
+      "years": "2021",
+      "text": "Bibendum neque egestas congue quisque egestas diam in. Lorem ipsum dolor sit amet."
+    },
+    {
+      "id": "2",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "August",
+      "years": "2021",
+      "text": "Tortor at risus viverra adipiscing at in. Pretium vulputate sapien nec sagittis aliquam malesuada."
+    },
+    {
+      "id": "3",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "September",
+      "years": "2021",
+      "text": "Dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Lacus vel facilisis volutpat est velit egestas."
+    },
+    {
+      "id": "4",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "October",
+      "years": "2021",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "5",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "November",
+      "years": "2021",
+      "text": " Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Sed vulputate mi sit amet mauris commodo quis imperdiet."
+    },
+    {
+      "id": "6",
+      "link": "https://www.google.com/",
+      "image": "https://res.cloudinary.com/dipwpo4gx/image/upload/v1643565261/blog/kovas_avu5d8.jpg",
+      "month": "December",
+      "years": "2021",
+      "text": "Sapien nec sagittis aliquam malesuada. At quis risus sed vulputate odio ut."
+    }
+  ],
+  "faq": [
+    {
+      "id": "c8537616-fe28-494f-91f2-dadfa6a721fe",
+      "title": "Question 1",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": "40f501f2-875d-42ca-873a-60ed12ab6215",
+      "title": "Question 2",
+      "details": "Cras mattis consectetur purus sit amet fermentum."
+    },
+    {
+      "id": "3e846f30-4eba-4f08-9826-fb890a456ba0",
+      "title": "Question 3",
+      "details": "Vestibulum id ligula porta felis euismod semper."
+    },
+    {
+      "id": "ded248d1-ed3a-474e-8e4a-4ce8bd9fed1d",
+      "title": "Question 4",
+      "details": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+    },
+    {
+      "id": "6f577707-0120-487d-9049-7de777851856",
+      "title": "Question 5",
+      "details": "Maecenas faucibus mollis interdum."
+    },
+    {
+      "id": "3db3d4fb-4271-4a30-9b4d-e63885438eca",
+      "title": "Question 6",
+      "details": "Nullam id dolor id nibh ultricies vehicula ut id elit."
+    }
+  ]
+}
