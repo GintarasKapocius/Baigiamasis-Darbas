@@ -16,7 +16,7 @@ const employyeCardHorizontal = ({
         <Typography variant='h5' component='h5'>
           {fullName}
         </Typography>
-        <Typography variant='h6' component='p'>
+        <Typography sx={{ opacity: 0.75 }} variant='body1' component='p'>
           {positiontitle}
         </Typography>
       </Grid>

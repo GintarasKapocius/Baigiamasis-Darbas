@@ -70,6 +70,10 @@ const generalTheme = createTheme(themeBase, {
         fontSize: '1.5rem',
       },
     },
+    body1: {
+      fontSize: '1.125rem',
+      lineHeight: 1.5,
+    },
     subtitle: {
       [themeBase.breakpoints.down('sm')]: {
         fontSize: '1.5rem',

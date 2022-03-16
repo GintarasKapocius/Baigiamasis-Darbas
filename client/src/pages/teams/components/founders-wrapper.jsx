@@ -8,8 +8,8 @@ import EmployyeCard from './employye-card';
 
 const FoundersWrapper = ({ title, leads }) => {
     return (
-        (< DepartmentCoverBg sx={{ mb:{xs:0,md:8}, backgroundColor: "#white", color: "black" }}>
-            <Container sx={{pb:6}}>
+        (< DepartmentCoverBg sx={{ pt: { xs: 0, md: 4 }, mb: { xs: 2, md: 8 }, backgroundColor: "#white", color: "black" }}>
+            <Container sx={{ pb: 6 }}>
                 <Typography variant="h2" component="h2" sx={{ mb: 4 }}>{title}</Typography>
                 <Grid sx={{ alignItems: "center" }} container spacing={4}>
                     {leads.map((lead) => (

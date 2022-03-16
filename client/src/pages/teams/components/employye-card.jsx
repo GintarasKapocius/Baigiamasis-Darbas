@@ -7,7 +7,7 @@ const EmployyeCard = ({ fullName, positiontitle, imgSrc, ...rest }) => {
         <Box>
             <EmployyelImg imgSrc={imgSrc} sx={{ mb: 3 }}></EmployyelImg>
             <Typography color='black.main' variant="h5" component="h5">{fullName}</Typography>
-            <Typography color='neutral.dark' variant="h6" component="p">{positiontitle}</Typography>
+            <Typography color='neutral.dark' variant="body1" component="p">{positiontitle}</Typography>
         </Box>
     )
 }
