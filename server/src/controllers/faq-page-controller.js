@@ -42,6 +42,7 @@ export const updateFaq = (req, res) => {
   faqs[faqIndex] = {
     title,
     details,
+    id,
   }
 
   database.write();
